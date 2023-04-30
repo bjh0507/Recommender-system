@@ -40,7 +40,6 @@
 
      **네이버에 평점 정보가 없는 음식점은 109개 중, 총 13개** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e860f57-0d3f-426a-952f-4c6ac3e4138c/Untitled.png)
 
 - 첫 번째 thinking
     
@@ -51,8 +50,6 @@
 - 두 번째 thinking
     1. 네이버 평점이 가진 객관성을 유지하고자 지인 평점을 추가적으로 활용할 방안을 탐색
     2. 네이버 지도맵에서 실시간으로 평점을 업데이트하는 방법을 적용
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15ae0a74-17cc-4e04-b88b-ce8181efd4b7/Untitled.png)
         
     
     $$
